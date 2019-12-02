@@ -1,0 +1,7 @@
+.total-time-container{
+    border:1px solid red;
+}
+.total-time-label{
+    display: block;
+    text-align: center;
+}

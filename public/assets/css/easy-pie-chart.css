@@ -1,0 +1,25 @@
+.easy-pie-chart, .easyPieChart {
+    position: relative;
+    text-align: center;
+    color: rgb(135, 206, 235);
+    height: 75px;
+    width: 75px;
+    line-height: 55px;
+}
+.percentage {
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: top;
+}
+.infobox .infobox-content:first-child, .infobox>.badge, .infobox>.stat, .percentage {
+    font-weight: 700;
+}
+.easy-pie-chart canvas, .easyPieChart canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+canvas {
+    display: inline-block;
+    vertical-align: baseline;
+}

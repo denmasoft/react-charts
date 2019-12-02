@@ -1,0 +1,46 @@
+.scale-container{
+    border-radius: 5px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background-color: #ffffff;
+}
+.scale-label{
+    display: block;
+    text-align: center;
+    font-weight: 700;
+}
+.scale-hour-label{
+    font-weight: 200;
+}
+.percentage{
+    
+}
+.percent{
+    color: white;
+}
+.card{
+    margin-bottom: 24px;
+}
+.text-black{
+    color: #000000;
+}
+.bg-purple {
+    background-color: #8892d6!important;
+}
+.pie-centered{
+    margin-left: 40%;
+}
+.bgc-white, .bgcH-white:hover {
+    background-color: #fff!important;
+}
+.round-center{
+    border-radius: 50%;
+    height: 55px;
+    width: 55px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.bubblechart{
+    border-radius: 50%;
+}

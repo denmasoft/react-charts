@@ -1,0 +1,13 @@
+.row-bottom{
+    margin-bottom: 1rem!important;
+    margin-top: 1rem!important;
+}
+.container-fluid{
+    background-color: #F2F5FC;
+}
+.apexcharts-toolbar,.apexcharts-xaxis,.apexcharts-gridline,.apexcharts-xaxis-tick,.apexcharts-yaxis{
+    display: none !important;
+}
+.apexcharts-title-text{
+    font-weight: 700;
+}
